@@ -1,8 +1,8 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 
-NAME: ABIRAMI A
+NAME: SURYA N
 
-REG NO 212224040010
+REG NO 212225040442
 
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
